@@ -1,12 +1,12 @@
 <div align="center">
   <h1>⚡ Thordata</h1>
   <p>
-    <strong>The AI‑Native Web Data Infrastructure for Developers & Agents</strong>
+    <strong>Residential Proxies & Datasets for Global Data Workflows</strong>
   </p>
   <p>
-    <a href="https://www.thordata.com">🌐 Website</a> ·
+    <a href="https://www.thordata.com/?ls=dgb&lk=dgb">🌐 Website</a> ·
     <a href="https://doc.thordata.com">📚 Documentation</a> ·
-    <a href="https://dashboard.thordata.com">📊 Dashboard</a> ·
+    <a href="https://www.thordata.com/blog">📊 Blog</a> ·
     <a href="mailto:support@thordata.com">📧 Support</a>
   </p>
   <p>
@@ -51,15 +51,21 @@ Enterprise‑grade proxy infrastructure for large‑scale, compliant web data co
 | Product | Description |
 | :--- | :--- |
 | **Residential Proxies** | Over **100M+ real residential IPs** from genuine users across **190+ countries**. Ideal for high‑trust platforms and geo‑sensitive workloads. |
+| **High-Bandwidth Proxies** | Unlimited IPs & GB, Dedicated Server, $38/day, Customizable Bandwidth.|
 | **Mobile Proxies** | Reliable mobile data extraction powered by real **4G/5G mobile IPs**, built for mobile‑only content and app verification. |
 | **Static ISP Proxies** | Residential‑class IPs with unlimited bandwidth for time‑sensitive tasks, long‑lived sessions, and login flows. |
 | **Datacenter Proxies** | Fast, cost‑efficient IPs optimized for bulk crawling, monitoring, and large‑scale scraping. |
 
-Key benefits:
+
+**Key benefits**:
 
 - **99.9% uptime** and high success rates  
 - Fine‑grained geo‑targeting down to country / region / city / ASN  
-- Unified console and APIs for configuration, rotation, and monitoring  
+- Unified console and APIs for configuration, rotation, and monitoring
+- API （ip:port）and password （USERNAME:PASSWORD）authentication
+- Rotating & Sticky (90-minute) Flexible Sessions
+- [Sign up for thordata to get a **3-day trial**](https://www.thordata.com/?ls=dgb&lk=dgb) and verify your email
+  
 
 For a full overview, see the **Proxy Solutions** section on the Thordata website.  
 
